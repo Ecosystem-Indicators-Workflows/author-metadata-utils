@@ -1,0 +1,119 @@
+{
+    "Organization": [
+        {
+            "code": "ces",
+            "name": "Centre for Ecosystem Science, UNSW Sydney"
+        },
+        {
+            "code": "iucn-cem",
+            "name": "IUCN Commission on Ecosystem Management",
+            "@id": "https://ror.org/00ybvyr04"
+        },
+        {
+            "code": "ardc",
+            "name": "Australian Research Data Commons",
+            "@id": "https://ror.org/038sjwq14"
+        },
+        {
+            "code": "unsw",
+            "name": "UNSW Sydney",
+            "@id": "https://ror.org/03r8z3t63"
+        },
+        {
+            "code": "jcu",
+            "name": "James Cook University"
+        },
+        {
+            "code": "qcif",
+            "name": "QCIF"
+        },
+        {
+            "code": "dnret",
+            "name": "Department of Natural Resources and Environment Tasmania"
+        }
+    ],
+    "Person": [
+        {
+            "code": "jrfp",
+            "@id": "https://orcid.org/0000-0002-9554-3395",
+            "affiliations": [
+                "ces",
+                "iucn-cem"
+            ],
+            "familyName": "Ferrer-Paris",
+            "givenName": "José R.",
+            "email": "j.ferrer@unsw.edu.au"
+        },
+        {
+            "code": "mtozer",
+            "@id": "https://orcid.org/0000-0002-7373-0077",
+            "affiliations": [
+                "ces"
+            ],
+            "familyName": "Tozer",
+            "givenName": "Mark G."
+        },
+        {
+            "code": "dkeith",
+            "@id": "https://orcid.org/0000-0002-7627-4150",
+            "affiliations": [
+                "ces",
+                "iucn-cem"
+            ],
+            "familyName": "Keith",
+            "givenName": "David A."
+        },
+        {
+            "code": "eda",
+            "@id": "https://orcid.org/0000-0002-4806-9205",
+            "affiliations": [
+                "jcu"
+            ],
+            "familyName": "Addicott",
+            "givenName": "Eda"
+        },
+        {
+            "code": "egould",
+            "@id": "https://orcid.org/0000-0002-6585-538X",
+            "affiliations": [
+                "ces"
+            ],
+            "familyName": "Gould",
+            "givenName": "Elliot"
+        },
+        {
+            "code": "raj",
+            "@id": "https://orcid.org/0000-0002-2279-7060",
+            "affiliations": [
+                "ces",
+                "qcif"
+            ],
+            "familyName": "Singh",
+            "givenName": "Abhimanyu Raj"
+        },
+        {
+            "code": "jbalmer",
+            "affiliations": [
+                "dnret"
+            ],
+            "familyName": "y",
+            "givenName": "y"
+        },
+        {
+            "code": "akitchener",
+            "affiliations": [
+                "dnret"
+            ],
+            "familyName": "Kitchener",
+            "givenName": "Anne"
+        },
+        {
+            "code": "alatinovic",
+            "affiliations": [
+                "dnret"
+            ],
+            "familyName": "Latinovic",
+            "givenName": "Adelina"
+        }
+    ]
+}
