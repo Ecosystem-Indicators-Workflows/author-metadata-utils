@@ -30,6 +30,10 @@
         {
             "code": "dnret",
             "name": "Department of Natural Resources and Environment Tasmania"
+        },
+        {
+            "code": "nswdcceew",
+            "name": "NSW Department of Climate Change, Energy, the Environment and Water"
         }
     ],
     "Person": [
@@ -79,7 +83,8 @@
                 "ces"
             ],
             "familyName": "Gould",
-            "givenName": "Elliot"
+            "givenName": "Elliot",
+            "email": "elliot.gould@unsw.edu.au"
         },
         {
             "code": "raj",
@@ -89,7 +94,8 @@
                 "qcif"
             ],
             "familyName": "Singh",
-            "givenName": "Abhimanyu Raj"
+            "givenName": "Abhimanyu Raj",
+            "email": "abhimanyu.singh@unsw.edu.au"
         },
         {
             "code": "jbalmer",
@@ -114,6 +120,22 @@
             ],
             "familyName": "Latinovic",
             "givenName": "Adelina"
+        },
+        {
+            "code": "dconnolly",
+            "affiliations": [
+                "nswdcceew"
+            ],
+            "familyName": "Connolly",
+            "givenName": "Daniel"
+        },
+        {
+            "code": "dtierney",
+            "affiliations": [
+                "nswdcceew"
+            ],
+            "familyName": "Tierney",
+            "givenName": "David"
         }
     ]
 }
